@@ -23,6 +23,3 @@ const fs = require("fs");
     process.exit(1);
   }
 })();
-
-git config --global user.email "receptopalak@gmail.com"
-git config --global user.name "receptopalak"
